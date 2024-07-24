@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I'm a computer science student of the University of Zaragoza in Spain. I am in my third year out of four of my university degree and I'm enthusiastic about programming.  
+I'm a computer engineering student of the University of Zaragoza in Spain. I am in my third year out of four of my university degree and I'm enthusiastic about programming.  
   
 
 <br/>  
